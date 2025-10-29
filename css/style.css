@@ -1,0 +1,25 @@
+body {
+    background-color: #000;
+}
+
+main {
+    color: #FFF;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+    color: #FFFF00;
+}
+
+p {
+    color: red;
+}
+
+ul {
+    color: white;
+    background-color: blue;
+    border: solid;
+    border-radius: 2em;
+    border-width: 0.3em;
+    border-color: purple;
+}
